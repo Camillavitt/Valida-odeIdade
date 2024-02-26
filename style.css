@@ -1,0 +1,35 @@
+@charset "utf-8";
+
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2018/07/04/00/19/champagne-3515140_1280.jpg);
+}
+
+h1{
+    color: white;
+    font-family: "Anta", sans-serif;
+    text-shadow: 2px 2px 1px black ;
+}
+
+.formulario{
+    text-align: center;
+    margin-top: 15%;
+    font-size: 25px;
+}
+
+input{
+    font-size: 25px;
+    border-radius: 20px;
+    border: solid 3px black;
+}
+
+button{
+    font-size: 25px;
+    border-radius: 20px;
+    border: solid 3px black;
+}
+
+p{
+    font-size: 30px;
+    color: white;
+    text-shadow: 2px 2px 1px black;
+}
